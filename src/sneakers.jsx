@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './SneakersDisplay.css'; // Make sure to use the correct path to your CSS file
+import './SneakersDisplay.css';
 import './index.css';
 const SNEAKERS = [
         {
